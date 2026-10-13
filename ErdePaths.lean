@@ -1,1 +1,3 @@
 import ErdePaths.Conjecture
+import ErdePaths.Consequences.ProductTransfer
+import ErdePaths.Consequences.Optimization
